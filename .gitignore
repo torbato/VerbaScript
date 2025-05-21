@@ -2,3 +2,7 @@ assets/whisper_models/
 venv/
 build/
 dist/
+old_versions/
+setup/alt_requirements.txt
+setup/pip_torch.txt
+setup\VerbaScript 0.7.spec
