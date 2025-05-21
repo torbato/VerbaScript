@@ -1,2 +1,4 @@
 assets/whisper_models/
 venv/
+build/
+dist/
