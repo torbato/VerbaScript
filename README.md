@@ -6,4 +6,4 @@ A Whisper based app written in Python designed to generate subtitles from movie 
 
 Yes, it was *vibe coded* :sparkles: if you couldn't tell by the terrible code.
 
-**ATTENTION:** this app is only for internal use. Any issues published will be ignored.
+**ATTENTION:** this app is only for internal use. Any issue published will be ignored.
